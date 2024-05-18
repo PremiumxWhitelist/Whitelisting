@@ -11,7 +11,7 @@ local scriptWhitelist = {
 }
 
 local function executeScript()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SourcexCode/D3V1LS-Source/main/Script/Premium/GUI/D3V1LS-Premium.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PremiumxWhitelist/Whitelisting/main/Redirect/Redirect-Premium-GUI.lua"))()
 end
 
 local function sendNotification()
