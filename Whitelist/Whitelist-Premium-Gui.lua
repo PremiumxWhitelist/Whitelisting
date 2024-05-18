@@ -8,6 +8,7 @@ local scriptWhitelist = {
     [3710265398] = true,   -- snorlax01047
     [5421324166] = true,   -- chiefkeefdedicated
     [5525658953] = true,   -- Hate_candy112
+    [2514442488] = true,   -- Effyf3
 }
 
 local function executeScript()
