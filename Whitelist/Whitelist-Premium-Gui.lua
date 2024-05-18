@@ -22,7 +22,7 @@ end
 local function sendNotification()
     game.StarterGui:SetCore("SendNotification", {
         Title = "You're NOT Whitelisted.",
-        Text = "Buy Premium in Discord discord.gg/VsEMZD8r2Y",
+        Text = "Buy Premium in Discord discord.gg/TxXMGF93Qq",
         Icon = "",  
         Duration = 20,
         Button1 = "I Will See!"
