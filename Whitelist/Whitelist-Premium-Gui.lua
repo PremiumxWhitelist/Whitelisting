@@ -12,6 +12,7 @@ local scriptWhitelist = {
     [5525658953] = true,   -- Hate_candy112
     [2514442488] = true,   -- Effyf3
     [2514442488] = true,   -- ROBLOX_ID_HERE | DISCOR_ID_HERE
+    [1357763058] = true,   -- robinbackup3
 }
 
 local function executeScript()
