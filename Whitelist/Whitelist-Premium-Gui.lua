@@ -1,3 +1,5 @@
+--TEMPLATE: [000000000] = true,   -- ROBLOX_ID_HERE | DISCOR_ID_HERE
+--EXAMPLE: [2520431055] = true,  -- xF4ir | 534409864181448707
 local scriptWhitelist = {
     [2520431055] = true,  -- xF4ir
     [871092912] = true,   -- Mrpupbro
@@ -9,6 +11,7 @@ local scriptWhitelist = {
     [5421324166] = true,   -- chiefkeefdedicated
     [5525658953] = true,   -- Hate_candy112
     [2514442488] = true,   -- Effyf3
+    [2514442488] = true,   -- ROBLOX_ID_HERE | DISCOR_ID_HERE
 }
 
 local function executeScript()
