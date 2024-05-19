@@ -3,11 +3,16 @@
 
 
 local scriptWhitelist = {
+    -- F4ir's DISCORD: 534409864181448707 ACCOUNTS DONT TOUCH --
     [2520431055] = true,  -- ROBLOX: xF4ir | DISCORD: 534409864181448707
     [871092912] = true,   -- ROBLOX: Mrpupbro | DISCORD: 534409864181448707
+    [3189622628] = true,  -- ROBLOX: xF4iirAlt | DISCORD: 534409864181448707
     [1491503204] = true,   -- ROBLOX: robinbackup5 | DISCORD: 534409864181448707
     [1357763058] = true,   -- ROBLOX: robinbackup3 | DISCORD: 534409864181448707
     [1357681509] = true,   -- ROBLOX: robinbackup1 | DISCORD: 534409864181448707
+    ----------------------------------------------------------------------------
+
+    
     [3352870732] = true,   -- ROBLOX: 2ill_M | DISCORD: 1188996017656446986
     [3647872448] = true,   -- ROBLOX: pendalove3 | DISCORD: 1227026443175727224
     [3710265398] = true,   -- ROBLOX: snorlax01047 | DISCORD: 1157663141090558023
