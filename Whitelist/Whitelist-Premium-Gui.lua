@@ -10,6 +10,7 @@ local scriptWhitelist = {
     [1491503204] = true,   -- ROBLOX: robinbackup5 | DISCORD: 534409864181448707
     [1357763058] = true,   -- ROBLOX: robinbackup3 | DISCORD: 534409864181448707
     [1357681509] = true,   -- ROBLOX: robinbackup1 | DISCORD: 534409864181448707
+    [4906611732] = true,   -- ROBLOX: robinbackup30 | DISCORD: 534409864181448707
     ----------------------------------------------------------------------------
 
 
