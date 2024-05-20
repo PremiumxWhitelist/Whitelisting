@@ -12,7 +12,8 @@ local scriptWhitelist = {
     [1357681509] = true,   -- ROBLOX: robinbackup1 | DISCORD: 534409864181448707
     ----------------------------------------------------------------------------
 
-    
+
+    [4805362755] = true,   -- ROBLOX: swraaewsaltaccount20 | DISCORD: 1238085093487022131
     [5743327912] = true,   -- ROBLOX: SolsRngDrake | DISCORD: 1239928593585541210
     [3352870732] = true,   -- ROBLOX: 2ill_M | DISCORD: 1188996017656446986
     [3647872448] = true,   -- ROBLOX: pendalove3 | DISCORD: 1227026443175727224
