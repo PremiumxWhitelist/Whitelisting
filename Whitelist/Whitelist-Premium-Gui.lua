@@ -13,6 +13,7 @@ local scriptWhitelist = {
     ----------------------------------------------------------------------------
 
     
+    [5743327912] = true,   -- ROBLOX: SolsRngDrake | DISCORD: 1239928593585541210
     [3352870732] = true,   -- ROBLOX: 2ill_M | DISCORD: 1188996017656446986
     [3647872448] = true,   -- ROBLOX: pendalove3 | DISCORD: 1227026443175727224
     [3710265398] = true,   -- ROBLOX: snorlax01047 | DISCORD: 1157663141090558023
