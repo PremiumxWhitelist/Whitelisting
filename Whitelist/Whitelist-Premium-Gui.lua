@@ -15,6 +15,7 @@ local scriptWhitelist = {
 
     [2041965124] = true,   -- ROBLOX: max_kolar20 | DISCORD: 1241339736187211816
     [838886000] = true,   -- ROBLOX: giganady | DISCORD: 975816574269276201
+    [4681899461] = true,   -- ROBLOX: malilazo4 | DISCORD: 1238085093487022131
     [4805362755] = true,   -- ROBLOX: swraaewsaltaccount20 | DISCORD: 1238085093487022131
     [1538045669] = true,   -- ROBLOX: CloudyTears265 | DISCORD: 1239928593585541210
     [3352870732] = true,   -- ROBLOX: 2ill_M | DISCORD: 1188996017656446986
