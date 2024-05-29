@@ -27,6 +27,7 @@ local scriptWhitelist = {
     [2514442488] = true,   -- ROBLOX: Effyf3 | DISCORD: 1213602112295010456
     [4640881837] = true,   -- ROBLOX: swraaewsaltaccount6 | DISCORD: 1242164554054500402
     [2245299694] = true,   -- ROBLOX: jendnsxjdhshe | DISCORD: 1244708152172220467
+    [920535195] = true,   -- ROBLOX: aran4912 | DISCORD: 814388949392949270
     
 }
 
