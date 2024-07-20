@@ -20,6 +20,7 @@ local scriptWhitelist = {
     ----------------------------------------------------------------------------
 
     [3581885786] = true,   -- ROBLOX: iamsocoolaxd | DISCORD: 899687030974468128
+    [106990475] = true,   -- ROBLOX: andreykoz | DISCORD: 805482600562819143
     [2041965124] = true,   -- ROBLOX: max_kolar20 | DISCORD: 1241339736187211816
     [838886000] = true,   -- ROBLOX: giganady | DISCORD: 975816574269276201
     [4681899461] = true,   -- ROBLOX: malilazo4 | DISCORD: 1238085093487022131
