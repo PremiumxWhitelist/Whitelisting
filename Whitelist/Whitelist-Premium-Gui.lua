@@ -6,7 +6,7 @@ local scriptWhitelist = {
     -- F4ir's DISCORD: 534409864181448707 ACCOUNTS DONT TOUCH --
     [2520431055] = true,  -- ROBLOX: xF4ir | DISCORD: 534409864181448707
     [3885912537] = true,  -- ROBLOX: lF4ir | DISCORD: 534409864181448707
-    [3611460943] = true,  
+    [8521265252] = true,  --NGRSweHATE
     [5511617101] = true,  -- ROBLOX: F4ir2_0 | DISCORD: 534409864181448707
     [871092912] = true,   -- ROBLOX: Mrpupbro | DISCORD: 534409864181448707
     [1664061180] = true,   -- ROBLOX: 0_1x6 | DISCORD: 534409864181448707
@@ -57,3 +57,4 @@ if scriptWhitelist[playerId] then
 else
     sendNotification()
 end
+
